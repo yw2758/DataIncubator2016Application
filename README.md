@@ -28,3 +28,4 @@ The initiation behind this project is based on my own education experience. My f
 Therefore recently I came up with this idea to incorporate those things of my parent's concern and make it into a comprehensive school or university recommendation system.
 
 The total size of these data source is aroune 1.5GB, which is not too big to handle in R environment.
+The final format of this project will be in Shiny app. For further improvement it could be realized on Ruby platform.
