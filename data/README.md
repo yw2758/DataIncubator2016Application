@@ -9,3 +9,5 @@ https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identi
 https://data.cityofnewyork.us/Public-Safety/NYPD-7-Major-Felony-Incidents/hyij-8hr7
 
 https://nycopendata.socrata.com/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95
+
+https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr?category=Education&view_name=School-Point-Locations
