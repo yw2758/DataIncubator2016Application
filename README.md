@@ -6,7 +6,7 @@ This repo is dedicated for Data Incubator 2016 Application
 The goals for this repo are
 - exploratory data analysis
 - making recommendation for parents using open data from NYC including crime records and hospital records
-- implement shiny app for visulazation
+- implementing shiny app for visulazation
 
 This repo has been organized as follows.
 ```
