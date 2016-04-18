@@ -1,7 +1,7 @@
-### DataIncubator2016Application
+#DataIncubator2016Application
 This repo is dedicated for Data Incubator 2016 Application 
 
-# Project: 
+### Project: 
 
 The learning goals for this repo is 
 - exploratory data analysis
